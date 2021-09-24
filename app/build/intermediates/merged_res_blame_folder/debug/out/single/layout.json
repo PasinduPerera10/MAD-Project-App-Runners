@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_userprofile.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_userprofile.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popup_password.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\popup_password.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\popup.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_driver2.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver2.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_driver4.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver4.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_started_image.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_started_image.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_driver1.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver1.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_update_delivery_details.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_update_delivery_details.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_driver3.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver3.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_single_delivery_details.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_single_delivery_details.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main_activitylogin.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_activitylogin.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_delivery_detalis.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_add_delivery_detalis.xml"
+    }
+]

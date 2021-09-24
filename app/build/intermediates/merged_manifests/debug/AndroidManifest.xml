@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sidemenusakura"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="31" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.SideMenuSakura" >
+        <activity
+            android:name="com.example.sidemenusakura.StartedImage"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivitylogin" />
+        <activity
+            android:name="com.example.sidemenusakura.DeliveryManagement.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.SideMenuSakura.NoActionBar" >
+        </activity>
+        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2" />
+        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3" />
+        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4" />
+        <activity android:name="com.example.sidemenusakura.DeliveryManagement.SingleDeliveryDetails" />
+        <activity android:name="com.example.sidemenusakura.DeliveryManagement.UpdateDeliveryDetails" />
+        <activity android:name="com.example.sidemenusakura.DeliveryManagement.AddDeliveryDetalis" />
+        <activity
+            android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1"
+            android:exported="true" />
+        <activity android:name="com.example.sidemenusakura.UserManagement.UserProfileActivity" />
+        <activity android:name="com.example.sidemenusakura.UserManagement.RegisterActivity" />
+        <activity
+            android:name="com.example.sidemenusakura.UserManagement.LoginActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

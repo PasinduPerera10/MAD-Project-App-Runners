@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_slideshow.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    }
+]

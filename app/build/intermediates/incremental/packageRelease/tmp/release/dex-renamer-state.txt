@@ -1,0 +1,4 @@
+#Tue Sep 21 11:22:37 IST 2021
+base.0=E\:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,982 @@
+[
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launchergoogle_background.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launchergoogle_background.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google_logo.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\drawable\\google_logo.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_userprofile_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_userprofile_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_foodmenu.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_foodmenu.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_foodman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_foodman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\logo_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_gallery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_foodmenu.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bar.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_bar.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_start_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\start_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_password.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\popup_password.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launchergoogle_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launchergoogle_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_barman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_barman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bar.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_bar.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\logo_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_order.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_order.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_order.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_order.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launchergoogle_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launchergoogle_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launchergoogle_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launchergoogle_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notification.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launchergoogle_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launchergoogle_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_order.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_order.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_logo_image_background.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\logo_image_background.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_image.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_image.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_home_24.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_userprofile_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_userprofile_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_order.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_order.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_started_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\started_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_foodman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_foodman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_started_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\started_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delivery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_start_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\start_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_started_image.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\started_image.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_started_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\started_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\logo_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_started_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\started_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_start_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\start_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delivery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delivery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_started_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\started_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_started_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\started_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_foodman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_foodman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_order.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_order.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_started_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\started_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_activitylogin.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_activitylogin.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_foodmenu.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_userprofile.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_userprofile.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_started_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\started_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\logo_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_barman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_barman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_foodman.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_foodman.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_start_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\start_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_order.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_order.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launchergoogle_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launchergoogle_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_foodmenu.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\logo_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_start_image_background.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\start_image_background.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_userprofile_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_userprofile_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_barman.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_barman.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_about.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bar.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_bar.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_bar.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bar.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_foodman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_foodman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcherfacebook_background.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcherfacebook_background.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_started_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\started_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_started_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\started_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_foodmenu.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_started_image_round.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\started_image_round.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_order.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_order.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_foodman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_foodman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_userprofile_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_userprofile_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_single_delivery_details.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_single_delivery_details.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launchergoogle_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launchergoogle_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_started_image_background.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\started_image_background.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\logo_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_camera.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delivery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcherfacebook_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcherfacebook_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_driver3.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver3.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bar.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_bar.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\logo_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_start_image_round.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\start_image_round.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_barman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_barman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_driver2.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver2.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\logo_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_gallery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_barman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_barman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_foodmenu.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notification.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_logo.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\drawable\\facebook_logo.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_started_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\started_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_delivery_details.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_update_delivery_details.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_start_image.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\start_image.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_start_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\start_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_started_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\started_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcherfacebook_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcherfacebook_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_about.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_about.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcherfacebook_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcherfacebook_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_started_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\started_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_userprofile_background.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_userprofile_background.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delivery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_camera.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_image_round.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_image_round.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_started_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\started_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_userprofile_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_userprofile_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notification.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notification.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcherfacebook_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcherfacebook_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_driver1.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver1.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_bar.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_bar.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_started_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\started_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_driver4.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_main_driver4.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_started_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\started_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_barman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_barman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delivery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcherfacebook_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcherfacebook_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bar.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_bar.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_foodman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_foodman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_slideshow.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_slideshow.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_userprofile_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\drawable\\ic_userprofile_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_camera.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_started_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\started_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\logo_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_started_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\started_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_barman.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_barman.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_start_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\start_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_camera.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_started_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\started_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_home_24.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_home_24.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_delivery_detalis.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_add_delivery_detalis.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcherfacebook_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcherfacebook_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_started_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\started_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\logo_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-hdpi\\logo_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\popup.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_camera.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delivery.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delivery.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_started_image.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_started_image.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notification.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_userprofile_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_userprofile_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\logo_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_foodmenu.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_foodmenu.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delivery.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delivery.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_camera.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\logo_image_foreground.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_userprofile_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\drawable-v24\\ic_userprofile_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_image_background.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\logo_image_background.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_image_round.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-mdpi\\logo_image_round.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_image.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_image.png"
+    },
+    {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_started_image_foreground.png.flat",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\mipmap-xhdpi\\started_image_foreground.png"
+    }
+]

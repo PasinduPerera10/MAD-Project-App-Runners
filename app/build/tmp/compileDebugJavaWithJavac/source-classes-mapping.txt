@@ -1,0 +1,148 @@
+com/example/sidemenusakura/ui/gallery/GalleryViewModel.java
+ com.example.sidemenusakura.ui.gallery.GalleryViewModel
+com/example/sidemenusakura/DeliveryManagement/MainActivityDriver2.java
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$3
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$4
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$5
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$6
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$7
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$7$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$7$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2$7$3
+com/example/sidemenusakura/databinding/ActivityUserprofileBinding.java
+ com.example.sidemenusakura.databinding.ActivityUserprofileBinding
+com/example/sidemenusakura/databinding/AppBarMainBinding.java
+ com.example.sidemenusakura.databinding.AppBarMainBinding
+com/example/sidemenusakura/databinding/ActivityStartedImageBinding.java
+ com.example.sidemenusakura.databinding.ActivityStartedImageBinding
+com/example/sidemenusakura/UserManagement/LoginActivity.java
+ com.example.sidemenusakura.UserManagement.LoginActivity
+ com.example.sidemenusakura.UserManagement.LoginActivity$1
+ com.example.sidemenusakura.UserManagement.LoginActivity$2
+com/example/sidemenusakura/databinding/PopupBinding.java
+ com.example.sidemenusakura.databinding.PopupBinding
+com/example/sidemenusakura/databinding/ActivityMainActivityloginBinding.java
+ com.example.sidemenusakura.databinding.ActivityMainActivityloginBinding
+com/example/sidemenusakura/DeliveryManagement/Delivery_Management.java
+ com.example.sidemenusakura.DeliveryManagement.Delivery_Management
+com/example/sidemenusakura/databinding/FragmentHomeBinding.java
+ com.example.sidemenusakura.databinding.FragmentHomeBinding
+com/example/sidemenusakura/ui/gallery/GalleryFragment.java
+ com.example.sidemenusakura.ui.gallery.GalleryFragment
+ com.example.sidemenusakura.ui.gallery.GalleryFragment$1
+com/example/sidemenusakura/databinding/ActivityRegisterBinding.java
+ com.example.sidemenusakura.databinding.ActivityRegisterBinding
+com/example/sidemenusakura/UserManagement/User.java
+ com.example.sidemenusakura.UserManagement.User
+com/example/sidemenusakura/databinding/ActivityLoginBinding.java
+ com.example.sidemenusakura.databinding.ActivityLoginBinding
+com/example/sidemenusakura/DeliveryManagement/UpdateDeliveryDetails.java
+ com.example.sidemenusakura.DeliveryManagement.UpdateDeliveryDetails
+ com.example.sidemenusakura.DeliveryManagement.UpdateDeliveryDetails$1
+com/example/sidemenusakura/DeliveryManagement/MainActivityDriver3.java
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$3
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$4
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$5
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$6
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$7
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$7$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$7$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3$7$3
+com/example/sidemenusakura/DeliveryManagement/Delivery_ManagementAdapter.java
+ com.example.sidemenusakura.DeliveryManagement.Delivery_ManagementAdapter
+com/example/sidemenusakura/databinding/ActivityAddDeliveryDetalisBinding.java
+ com.example.sidemenusakura.databinding.ActivityAddDeliveryDetalisBinding
+com/example/sidemenusakura/DeliveryManagement/MainActivitylogin.java
+ com.example.sidemenusakura.DeliveryManagement.MainActivitylogin
+com/example/sidemenusakura/DeliveryManagement/SingleDeliveryDetails.java
+ com.example.sidemenusakura.DeliveryManagement.SingleDeliveryDetails
+com/example/sidemenusakura/UserManagement/Constants.java
+ com.example.sidemenusakura.UserManagement.Constants
+com/example/sidemenusakura/UserManagement/RegisterActivity.java
+ com.example.sidemenusakura.UserManagement.RegisterActivity
+ com.example.sidemenusakura.UserManagement.RegisterActivity$1
+ com.example.sidemenusakura.UserManagement.RegisterActivity$2
+com/example/sidemenusakura/databinding/ActivityMainDriver2Binding.java
+ com.example.sidemenusakura.databinding.ActivityMainDriver2Binding
+com/example/sidemenusakura/databinding/ActivityMainDriver4Binding.java
+ com.example.sidemenusakura.databinding.ActivityMainDriver4Binding
+com/example/sidemenusakura/databinding/ActivitySingleDeliveryDetailsBinding.java
+ com.example.sidemenusakura.databinding.ActivitySingleDeliveryDetailsBinding
+com/example/sidemenusakura/UserManagement/DatabaseHelper.java
+ com.example.sidemenusakura.UserManagement.DatabaseHelper
+com/example/sidemenusakura/databinding/NavHeaderMainBinding.java
+ com.example.sidemenusakura.databinding.NavHeaderMainBinding
+com/example/sidemenusakura/databinding/FragmentGalleryBinding.java
+ com.example.sidemenusakura.databinding.FragmentGalleryBinding
+com/example/sidemenusakura/databinding/ActivityMainDriver3Binding.java
+ com.example.sidemenusakura.databinding.ActivityMainDriver3Binding
+com/example/sidemenusakura/databinding/ActivityUpdateDeliveryDetailsBinding.java
+ com.example.sidemenusakura.databinding.ActivityUpdateDeliveryDetailsBinding
+com/example/sidemenusakura/databinding/PopupPasswordBinding.java
+ com.example.sidemenusakura.databinding.PopupPasswordBinding
+com/example/sidemenusakura/DeliveryManagement/AddDeliveryDetalis.java
+ com.example.sidemenusakura.DeliveryManagement.AddDeliveryDetalis
+ com.example.sidemenusakura.DeliveryManagement.AddDeliveryDetalis$1
+ com.example.sidemenusakura.DeliveryManagement.AddDeliveryDetalis$2
+com/example/sidemenusakura/BuildConfig.java
+ com.example.sidemenusakura.BuildConfig
+com/example/sidemenusakura/databinding/ContentMainBinding.java
+ com.example.sidemenusakura.databinding.ContentMainBinding
+com/example/sidemenusakura/DeliveryManagement/MainActivity.java
+ com.example.sidemenusakura.DeliveryManagement.MainActivity
+com/example/sidemenusakura/DeliveryManagement/MainActivityDriver4.java
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$3
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$4
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$5
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$6
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$7
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$7$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$7$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4$7$3
+com/example/sidemenusakura/ui/slideshow/SlideshowViewModel.java
+ com.example.sidemenusakura.ui.slideshow.SlideshowViewModel
+com/example/sidemenusakura/databinding/FragmentSlideshowBinding.java
+ com.example.sidemenusakura.databinding.FragmentSlideshowBinding
+com/example/sidemenusakura/databinding/ActivityMainDriver1Binding.java
+ com.example.sidemenusakura.databinding.ActivityMainDriver1Binding
+com/example/sidemenusakura/databinding/ActivityMainBinding.java
+ com.example.sidemenusakura.databinding.ActivityMainBinding
+com/example/sidemenusakura/DeliveryManagement/MainActivityDriver1.java
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$3
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$4
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$5
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$6
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$7
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$7$1
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$7$2
+ com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1$7$3
+com/example/sidemenusakura/DeliveryManagement/DbHandler.java
+ com.example.sidemenusakura.DeliveryManagement.DbHandler
+com/example/sidemenusakura/ui/home/HomeViewModel.java
+ com.example.sidemenusakura.ui.home.HomeViewModel
+com/example/sidemenusakura/UserManagement/UserProfileActivity.java
+ com.example.sidemenusakura.UserManagement.UserProfileActivity
+ com.example.sidemenusakura.UserManagement.UserProfileActivity$1
+ com.example.sidemenusakura.UserManagement.UserProfileActivity$2
+ com.example.sidemenusakura.UserManagement.UserProfileActivity$3
+ com.example.sidemenusakura.UserManagement.UserProfileActivity$4
+ com.example.sidemenusakura.UserManagement.UserProfileActivity$5
+ com.example.sidemenusakura.UserManagement.UserProfileActivity$6
+com/example/sidemenusakura/ui/slideshow/SlideshowFragment.java
+ com.example.sidemenusakura.ui.slideshow.SlideshowFragment
+ com.example.sidemenusakura.ui.slideshow.SlideshowFragment$1
+com/example/sidemenusakura/StartedImage.java
+ com.example.sidemenusakura.StartedImage
+ com.example.sidemenusakura.StartedImage$1
