@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/blankFragment2"
+            android:icon="@drawable/ic_foodmenu"
+            android:title="@string/FoodMenu" />
+
+        <item
+            android:id="@+id/updateDeliveryDetailsFragment"
+            android:icon="@drawable/ic_bar"
+            android:title="@string/BarMenu" />
+
+        <item
+            android:id="@+id/viewDeliveryDetailsFragment"
+            android:icon="@drawable/ic_order"
+            android:title="@string/orderListFragment" />
+        <item
+            android:id="@+id/registrationFragment"
+            android:icon="@drawable/ic_foodman"
+            android:title="@string/foodListFragment" />
+        <item
+            android:id="@+id/addDeliveryDetailsFragment"
+            android:icon="@drawable/ic_barman"
+            android:title="@string/barmenuListFragment" />
+        <item
+            android:id="@+id/mainActivityDriver1"
+            android:icon="@drawable/ic_delivery"
+            android:title="@string/deliveryListFragment" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_about"
+            android:title="@string/AboutUs" />
+    </group>
+</menu>

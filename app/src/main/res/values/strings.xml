@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Sakura Restaurant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="BlankFragment">Blank Fragment</string>
+    <string name="Signup">signup</string>
+    <string name="already_have_an_account_login">Already_have_an_account_login</string>
+    <string name="update_your_profile">Update Profile</string>
+    <string name="aa">aa</string>
+    <string name="title_activity_main_updatedeliverydetails">MainActivityUpdatedeliverydetails
+    </string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="UserProfile" />
+    <string name="DeliveryManagement" />
+    <string name="DeliveryManagement1" />
+    <string name="deliveryListFragment">Food Delivery Management</string>
+    <string name="MainActivityUserProfile">User Profile</string>
+    <string name="viewUserProfileFragment">User Profile</string>
+    <string name="orderListFragment">Order Management</string>
+    <string name="foodmenuListFragment">Food Menu Management</string>
+    <string name="barmenuListFragment">Bar Menu Management</string>
+    <string name="Menu">Menu</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="AboutUs">About us</string>
+    <string name="FoodMenu">Food Menu</string>
+    <string name="BarMenu">Bar Menu</string>
+    <string name="title_activity_main_bottom_bar">MainActivityBottomBar</string>
+    <string name="title_activity_main_bottomtab">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="foodListFragment">Food Menu Management</string>
+    <string name="updatedeliverydetails">Update Delivery Details</string>
+    <string name="newdiliverydetails">New Dilivery Details</string>
+    <string name="viewdeliverydetalis">View Delivery Details</string>
+    <string name="newdeliverydetails">New Delivery Details</string>
+    <string name="userprofile">User Profile</string>
+    <string name="updateprofile">Update Profile</string>
+    <string name="resetprofile">Reset Profile</string>
+    <string name="updateuserprofile">Update User Profile</string>
+    <string name="updateuprofile">Update User Profile</string>
+    <string name="prousername">Namal10</string>
+    <string name="proname">Namal Perera</string>
+    <string name="proconnumber">0775674568</string>
+    <string name="promail">namal98@gmail.com</string>
+    <string name="fragment_registration">Registration</string>
+    <string name="regitrationfrag">Registration</string>
+
+
+    <string name="topicname">SAKURA RESTAURANT</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="loginusername">email</string>
+    <string name="createaccount">Create an account</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="post">Name</string>
+    <string name="register">REGISTERATION</string>
+    <string name="Username">Username</string>
+    <string name="contact_number">Contact number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Retypepassword">Retype password</string>
+    <string name="pasindu_perera">Pasindu Perera</string>
+    <string name="update">Update</string>
+    <string name="delete">Forget Password</string>
+    <string name="pasindu_gmail_com">pasindu@gmail.com</string>
+    <string name="_0771233458">0771234238</string>
+    <string name="pasindu10">Pasindu10</string>
+    <string name="name">Name</string>
+
+
+    <string name="title_activity_delivery_management">DeliveryManagement</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
