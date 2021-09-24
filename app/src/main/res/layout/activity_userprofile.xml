@@ -14,7 +14,7 @@
         android:text="@string/pasindu_perera"
         android:textAlignment="center"
         android:textColor="#F6EFEF"
-        android:textSize="20sp"
+        android:textSize="24sp"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView8"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
