@@ -9,21 +9,76 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SideMenuSakura">
-        <activity android:name=".StartedImage"
+
+
+
+
+        <activity android:name=".OrderManagement.orderdeliveryActivity">
+
+        </activity>
+        <activity android:name=".OrderManagement.payments" />
+        <activity android:name=".OrderManagement.AddOrderActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".OrderManagement.ViewOrderActivity">
+
+        </activity>
+
+
+
+
+        <activity
+            android:name=".BarMenuManagement.BarMenuPage3Activity"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name=".BarMenuManagement.BarMenuPage2Activity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".BarMenuManagement.ViewBarMenuActivity" />
+        <activity android:name=".BarMenuManagement.AddBarMenu"
+            android:exported="true">
+        </activity>
+
+
+
+
+
+        <activity android:name=".FoodMenuManagement.Mainnewgui3">
+        </activity>
+        <activity android:name=".FoodMenuManagement.Mainnewgui2" />
+        <activity android:name=".FoodMenuManagement.Mainnewgui1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DeliveryManagement.MainActivitylogin" />
+        <activity android:name=".FoodMenuManagement.ViewFoodItemList" />
+        <activity android:name=".FoodMenuManagement.AddFoodItem"
+            android:exported="true">
+        </activity>
+
+
+
+
+        <activity android:name=".exam"
+            android:exported="true">
+        </activity>
         <activity
-            android:name=".DeliveryManagement.MainActivity"
+            android:name=".AboutUs"
+            android:exported="true" />
+        <activity
+            android:name=".StartedImage"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        </activity>
+        <activity android:name=".MainActivitylogin" />
+        <activity
+            android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.SideMenuSakura.NoActionBar">
-        </activity>
+            android:theme="@style/Theme.SideMenuSakura.NoActionBar" />
         <activity android:name=".DeliveryManagement.MainActivityDriver2" />
         <activity android:name=".DeliveryManagement.MainActivityDriver3" />
         <activity android:name=".DeliveryManagement.MainActivityDriver4" />
@@ -32,12 +87,15 @@
         <activity android:name=".DeliveryManagement.AddDeliveryDetalis" />
         <activity
             android:name=".DeliveryManagement.MainActivityDriver1"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity android:name=".UserManagement.UserProfileActivity" />
         <activity android:name=".UserManagement.RegisterActivity" />
         <activity
             android:name=".UserManagement.LoginActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
+
+
     </application>
+
 
 </manifest>

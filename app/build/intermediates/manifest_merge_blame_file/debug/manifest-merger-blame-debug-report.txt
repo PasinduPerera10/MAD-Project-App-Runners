@@ -11,7 +11,7 @@
 9-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:5:5-41:19
+11-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:5:5-98:19
 12        android:allowBackup="true"
 12-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,73 +28,153 @@
 19        android:testOnly="true"
 20        android:theme="@style/Theme.SideMenuSakura" >
 20-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:11:9-52
-21        <activity
-21-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:12:9-19:20
-22            android:name="com.example.sidemenusakura.StartedImage"
-22-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:12:19-47
-23            android:exported="true" >
-23-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:13:13-36
-24            <intent-filter>
-24-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:14:13-18:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:15:17-69
-25-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:15:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:17:17-77
-27-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:17:27-74
-28            </intent-filter>
+21        <activity android:name="com.example.sidemenusakura.OrderManagement.orderdeliveryActivity" >
+21-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:16:9-18:20
+21-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:16:19-72
+22        </activity>
+23        <activity android:name="com.example.sidemenusakura.OrderManagement.payments" />
+23-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:19:9-62
+23-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:19:19-59
+24        <activity
+24-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:20:9-22:20
+25            android:name="com.example.sidemenusakura.OrderManagement.AddOrderActivity"
+25-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:20:19-67
+26            android:exported="true" >
+26-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:21:13-36
+27        </activity>
+28        <activity android:name="com.example.sidemenusakura.OrderManagement.ViewOrderActivity" >
+28-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:23:9-25:20
+28-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:23:19-68
 29        </activity>
-30        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivitylogin" />
-30-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:20:9-74
-30-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:20:19-71
-31        <activity
-31-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:21:9-26:20
-32            android:name="com.example.sidemenusakura.DeliveryManagement.MainActivity"
-32-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:22:13-60
-33            android:exported="true"
-33-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:23:13-36
-34            android:label="@string/app_name"
-34-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:24:13-45
-35            android:theme="@style/Theme.SideMenuSakura.NoActionBar" >
-35-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:25:13-68
-36        </activity>
-37        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2" />
-37-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:27:9-76
-37-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:27:19-73
-38        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3" />
-38-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:28:9-76
-38-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:28:19-73
-39        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4" />
-39-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:29:9-76
-39-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:29:19-73
-40        <activity android:name="com.example.sidemenusakura.DeliveryManagement.SingleDeliveryDetails" />
-40-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:30:9-78
-40-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:30:19-75
-41        <activity android:name="com.example.sidemenusakura.DeliveryManagement.UpdateDeliveryDetails" />
-41-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:31:9-78
-41-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:31:19-75
-42        <activity android:name="com.example.sidemenusakura.DeliveryManagement.AddDeliveryDetalis" />
-42-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:32:9-75
-42-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:32:19-72
-43        <activity
-43-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:33:9-35:48
-44            android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1"
-44-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:34:13-67
-45            android:exported="true" />
-45-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:35:13-36
-46        <activity android:name="com.example.sidemenusakura.UserManagement.UserProfileActivity" />
-46-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:36:9-72
-46-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:36:19-69
-47        <activity android:name="com.example.sidemenusakura.UserManagement.RegisterActivity" />
-47-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:37:9-69
-47-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:37:19-66
-48        <activity
-48-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:38:9-40:48
-49            android:name="com.example.sidemenusakura.UserManagement.LoginActivity"
-49-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:39:13-57
-50            android:exported="true" />
-50-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:40:13-36
-51    </application>
-52
-53</manifest>
+30        <activity
+30-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:30:9-33:20
+31            android:name="com.example.sidemenusakura.BarMenuManagement.BarMenuPage3Activity"
+31-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:31:13-67
+32            android:exported="true" >
+32-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:32:13-36
+33        </activity>
+34        <activity
+34-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:34:9-37:20
+35            android:name="com.example.sidemenusakura.BarMenuManagement.BarMenuPage2Activity"
+35-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:35:13-67
+36            android:exported="true" >
+36-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:36:13-36
+37        </activity>
+38        <activity android:name="com.example.sidemenusakura.BarMenuManagement.ViewBarMenuActivity" />
+38-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:38:9-75
+38-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:38:19-72
+39        <activity
+39-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:39:9-41:20
+40            android:name="com.example.sidemenusakura.BarMenuManagement.AddBarMenu"
+40-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:39:19-63
+41            android:exported="true" >
+41-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:40:13-36
+42        </activity>
+43        <activity android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui3" >
+43-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:47:9-48:20
+43-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:47:19-65
+44        </activity>
+45        <activity android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui2" />
+45-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:49:9-68
+45-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:49:19-65
+46        <activity
+46-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:50:9-56:20
+47            android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui1"
+47-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:50:19-65
+48            android:exported="true" >
+48-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:51:13-36
+49            <intent-filter>
+49-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:52:13-55:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:53:17-69
+50-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:53:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:54:17-77
+52-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:54:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity android:name="com.example.sidemenusakura.FoodMenuManagement.ViewFoodItemList" />
+55-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:57:9-73
+55-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:57:19-70
+56        <activity
+56-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:58:9-60:20
+57            android:name="com.example.sidemenusakura.FoodMenuManagement.AddFoodItem"
+57-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:58:19-65
+58            android:exported="true" >
+58-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:59:13-36
+59        </activity>
+60        <activity
+60-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:65:9-67:20
+61            android:name="com.example.sidemenusakura.exam"
+61-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:65:19-39
+62            android:exported="true" >
+62-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:66:13-36
+63        </activity>
+64        <activity
+64-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:68:9-70:39
+65            android:name="com.example.sidemenusakura.AboutUs"
+65-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:69:13-36
+66            android:exported="true" />
+66-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:70:13-36
+67        <activity
+67-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:71:9-75:20
+68            android:name="com.example.sidemenusakura.StartedImage"
+68-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:72:13-41
+69            android:exported="true"
+69-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:73:13-36
+70            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+70-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:74:13-72
+71        </activity>
+72        <activity android:name="com.example.sidemenusakura.MainActivitylogin" />
+72-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:76:9-55
+72-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:76:19-52
+73        <activity
+73-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:77:9-81:71
+74            android:name="com.example.sidemenusakura.MainActivity"
+74-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:78:13-41
+75            android:exported="true"
+75-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:79:13-36
+76            android:label="@string/app_name"
+76-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:80:13-45
+77            android:theme="@style/Theme.SideMenuSakura.NoActionBar" />
+77-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:81:13-68
+78        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2" />
+78-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:82:9-76
+78-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:82:19-73
+79        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3" />
+79-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:83:9-76
+79-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:83:19-73
+80        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4" />
+80-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:84:9-76
+80-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:84:19-73
+81        <activity android:name="com.example.sidemenusakura.DeliveryManagement.SingleDeliveryDetails" />
+81-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:85:9-78
+81-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:85:19-75
+82        <activity android:name="com.example.sidemenusakura.DeliveryManagement.UpdateDeliveryDetails" />
+82-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:86:9-78
+82-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:86:19-75
+83        <activity android:name="com.example.sidemenusakura.DeliveryManagement.AddDeliveryDetalis" />
+83-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:87:9-75
+83-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:87:19-72
+84        <activity
+84-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:88:9-90:39
+85            android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1"
+85-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:89:13-67
+86            android:exported="true" />
+86-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:90:13-36
+87        <activity android:name="com.example.sidemenusakura.UserManagement.UserProfileActivity" />
+87-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:91:9-72
+87-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:91:19-69
+88        <activity android:name="com.example.sidemenusakura.UserManagement.RegisterActivity" />
+88-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:92:9-69
+88-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:92:19-66
+89        <activity
+89-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:93:9-95:39
+90            android:name="com.example.sidemenusakura.UserManagement.LoginActivity"
+90-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:94:13-57
+91            android:exported="true" />
+91-->E:\Android tutorial videos\SideMenuSakura\app\src\main\AndroidManifest.xml:95:13-36
+92    </application>
+93
+94</manifest>

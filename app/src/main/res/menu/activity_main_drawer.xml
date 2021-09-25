@@ -10,7 +10,7 @@
             android:title="@string/menu_home" />
 
         <item
-            android:id="@+id/blankFragment2"
+            android:id="@+id/mainnewgui1"
             android:icon="@drawable/ic_foodmenu"
             android:title="@string/FoodMenu" />
 
@@ -24,7 +24,7 @@
             android:icon="@drawable/ic_order"
             android:title="@string/orderListFragment" />
         <item
-            android:id="@+id/registrationFragment"
+            android:id="@+id/addFoodItem2"
             android:icon="@drawable/ic_foodman"
             android:title="@string/foodListFragment" />
         <item
@@ -36,7 +36,7 @@
             android:icon="@drawable/ic_delivery"
             android:title="@string/deliveryListFragment" />
         <item
-            android:id="@+id/nav_login"
+            android:id="@+id/aboutUs"
             android:icon="@drawable/ic_about"
             android:title="@string/AboutUs" />
     </group>

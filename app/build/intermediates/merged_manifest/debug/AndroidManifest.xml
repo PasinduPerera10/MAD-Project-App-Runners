@@ -18,8 +18,33 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.SideMenuSakura" >
+        <activity android:name="com.example.sidemenusakura.OrderManagement.orderdeliveryActivity" >
+        </activity>
+        <activity android:name="com.example.sidemenusakura.OrderManagement.payments" />
         <activity
-            android:name="com.example.sidemenusakura.StartedImage"
+            android:name="com.example.sidemenusakura.OrderManagement.AddOrderActivity"
+            android:exported="true" >
+        </activity>
+        <activity android:name="com.example.sidemenusakura.OrderManagement.ViewOrderActivity" >
+        </activity>
+        <activity
+            android:name="com.example.sidemenusakura.BarMenuManagement.BarMenuPage3Activity"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name="com.example.sidemenusakura.BarMenuManagement.BarMenuPage2Activity"
+            android:exported="true" >
+        </activity>
+        <activity android:name="com.example.sidemenusakura.BarMenuManagement.ViewBarMenuActivity" />
+        <activity
+            android:name="com.example.sidemenusakura.BarMenuManagement.AddBarMenu"
+            android:exported="true" >
+        </activity>
+        <activity android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui3" >
+        </activity>
+        <activity android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui2" />
+        <activity
+            android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui1"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,13 +52,29 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivitylogin" />
+        <activity android:name="com.example.sidemenusakura.FoodMenuManagement.ViewFoodItemList" />
         <activity
-            android:name="com.example.sidemenusakura.DeliveryManagement.MainActivity"
+            android:name="com.example.sidemenusakura.FoodMenuManagement.AddFoodItem"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name="com.example.sidemenusakura.exam"
+            android:exported="true" >
+        </activity>
+        <activity
+            android:name="com.example.sidemenusakura.AboutUs"
+            android:exported="true" />
+        <activity
+            android:name="com.example.sidemenusakura.StartedImage"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+        </activity>
+        <activity android:name="com.example.sidemenusakura.MainActivitylogin" />
+        <activity
+            android:name="com.example.sidemenusakura.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.SideMenuSakura.NoActionBar" >
-        </activity>
+            android:theme="@style/Theme.SideMenuSakura.NoActionBar" />
         <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver2" />
         <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver3" />
         <activity android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver4" />

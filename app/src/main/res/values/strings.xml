@@ -16,7 +16,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="BlankFragment">Blank Fragment</string>
     <string name="Signup">signup</string>
-    <string name="already_have_an_account_login">Already_have_an_account_login</string>
+    <string name="already_have_an_account_login">Already have an account? Sign In</string>
     <string name="update_your_profile">Update Profile</string>
     <string name="aa">aa</string>
     <string name="title_activity_main_updatedeliverydetails">MainActivityUpdatedeliverydetails
@@ -90,4 +90,27 @@
     <string name="title_activity_delivery_management">DeliveryManagement</string>
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
+
+
+
+
+
+
+    <string name="createorder">Create Order</string>
+    <string name="cash">Cash</string>
+    <string name="card">Card</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="food_name">Food Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="delivery_location">Delivery Location</string>
+    <string name="delivery">Delivery</string>
+    <string name="payments">Do Payments</string>
+    <string name="paymentscard">Payments With Cards</string>
+    <string name="holder">Holder Of  Card</string>
+    <string name="card_no">Card Number</string>
+    <string name="valid_date">Valid Date</string>
+    <string name="creditcard">Credit Card</string>
+    <string name="debitcard">Debit Card</string>
+    <string name="viewpayments">View Payments</string>
+    <string name="savepaymnets">Save Payments</string>
 </resources>

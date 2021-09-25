@@ -17,6 +17,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.sidemenusakura.MainActivity;
 import com.example.sidemenusakura.R;
 
 import java.util.ArrayList;
@@ -112,7 +113,7 @@ public class MainActivityDriver1 extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-                Intent i = new Intent(getApplicationContext(),MainActivity.class);
+                Intent i = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(i);
             }
         });

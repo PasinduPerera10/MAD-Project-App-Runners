@@ -28,7 +28,7 @@
     </fragment>
     <activity
         android:id="@+id/nav_login"
-        android:name="com.example.sidemenusakura.DeliveryManagement.MainActivitylogin"
+        android:name="com.example.sidemenusakura.MainActivitylogin"
         android:label="activity_main_activitylogin"
         tools:layout="@layout/activity_main_activitylogin" />
     <activity
@@ -41,4 +41,23 @@
         android:name="com.example.sidemenusakura.UserManagement.UserProfileActivity"
         android:label="activity_userprofile"
         tools:layout="@layout/activity_userprofile" />
+    <activity
+        android:id="@+id/aboutUs"
+        android:name="com.example.sidemenusakura.AboutUs"
+        android:label="AboutUs" />
+    <activity
+        android:id="@+id/addFoodItem"
+        android:name="com.example.sidemenusakura.AddFoodItem"
+        android:label="activity_add_food_item"
+        tools:layout="@layout/activity_add_food_item" />
+    <activity
+        android:id="@+id/addFoodItem2"
+        android:name="com.example.sidemenusakura.FoodMenuManagement.AddFoodItem"
+        android:label="activity_addfooditem"
+        tools:layout="@layout/activity_addfooditem" />
+    <activity
+        android:id="@+id/mainnewgui1"
+        android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui1"
+        android:label="activity_mainnewgui1"
+        tools:layout="@layout/activity_mainnewgui1" />
 </navigation>

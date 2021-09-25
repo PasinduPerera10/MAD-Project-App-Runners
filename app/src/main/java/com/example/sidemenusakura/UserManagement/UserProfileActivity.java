@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.sidemenusakura.DeliveryManagement.MainActivity;
+import com.example.sidemenusakura.MainActivity;
 import com.example.sidemenusakura.R;
 import com.google.android.material.snackbar.Snackbar;
 
