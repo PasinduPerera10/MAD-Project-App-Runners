@@ -40,7 +40,7 @@
 
     <EditText
         android:id="@+id/edittext_name"
-        android:layout_width="226dp"
+        android:layout_width="225dp"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:background="#C8C7C3"
