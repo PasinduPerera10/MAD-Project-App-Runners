@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".UserManagement.UserProfileActivity">
+    tools:context=".UserProfileManagement.UserProfileActivity">
 
     <TextView
         android:id="@+id/textViewName"
@@ -32,6 +32,7 @@
         android:shadowColor="#882C2C"
         android:text="@string/pasindu10"
         android:textAlignment="center"
+        android:textColor="#0C0808"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -43,7 +44,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:background="#9F7272"
-        android:text="@string/name"
+        android:text="@string/Username"
         android:textAlignment="center"
         android:textColor="#F8F5F5"
         android:textSize="16sp"
@@ -70,7 +71,7 @@
 
     <TextView
         android:id="@+id/textViewEmail"
-        android:layout_width="203dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="#1D415E"
         android:text="@string/pasindu_gmail_com"
@@ -91,6 +92,7 @@
         android:textAlignment="center"
         android:textColor="#F6EFEF"
         android:textSize="16sp"
+        android:visibility="invisible"
         app:layout_constraintBaseline_toBaselineOf="@+id/textView7"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.139"
@@ -119,7 +121,7 @@
         android:text="@string/contact_number"
         android:textAlignment="center"
         android:textColor="#F8F5F5"
-        android:textSize="20sp"
+        android:textSize="16sp"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintHorizontal_bias="0.862"
         app:layout_constraintStart_toStartOf="parent"
@@ -135,6 +137,7 @@
         android:textAlignment="center"
         android:textColor="#F8F5F5"
         android:textSize="16sp"
+        android:visibility="invisible"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintHorizontal_bias="0.928"
         app:layout_constraintStart_toStartOf="parent"
@@ -146,7 +149,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:background="#9F7272"
-        android:text="@string/Username"
+        android:text="@string/name"
         android:textAlignment="center"
         android:textColor="#F8F5F5"
         android:textColorHighlight="#532121"
@@ -159,12 +162,16 @@
 
     <Button
         android:id="@+id/btnEditDetails"
-        android:layout_width="0dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:background="#74E6BEBE"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="24dp"
+        android:background="#FF2CC179"
         android:text="@string/update"
-        app:layout_constraintEnd_toStartOf="@+id/btnChangePassword"
+        app:backgroundTint="#FF2CC179"
+        app:layout_constraintEnd_toStartOf="@+id/textViewLogout"
+        app:layout_constraintHorizontal_bias="0.037"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView7" />
 
@@ -172,12 +179,19 @@
         android:id="@+id/btnChangePassword"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginStart="137dp"
+        android:layout_marginLeft="137dp"
+        android:layout_marginEnd="93dp"
+        android:layout_marginRight="93dp"
+        android:layout_marginBottom="44dp"
         android:background="#74E6BEBE"
         android:text="@string/delete"
-        app:layout_constraintEnd_toStartOf="@+id/textViewLogout"
-        app:layout_constraintStart_toEndOf="@+id/btnEditDetails"
-        app:layout_constraintTop_toBottomOf="@+id/textViewPassword" />
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/buttonorder2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLogout" />
 
     <androidx.constraintlayout.widget.Barrier
         android:id="@+id/barrier2"
@@ -236,23 +250,25 @@
 
     <Button
         android:id="@+id/textViewLogout"
-        android:layout_width="0dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:background="#74E6BEBE"
-        android:text="Logout"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:background="#FFF30B38"
+        android:text="Logout in app"
+        app:backgroundTint="#FFF30B38"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/btnChangePassword"
         app:layout_constraintTop_toBottomOf="@+id/textViewPassword" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonorder2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="44dp"
         android:text="Let's Go"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/btnChangePassword" />
 

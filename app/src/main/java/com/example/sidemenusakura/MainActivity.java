@@ -32,12 +32,38 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        imageButtonhome=findViewById(R.id.imageButtonhome);
-        imageButtonfood=findViewById(R.id.imageButtonfood);
-        imageButtonbar=findViewById(R.id.imageButtonbar);
-        imageButtonorder=findViewById(R.id.imageButtonorder);
-
-
+//        imageButtonhome=findViewById(R.id.imageButtonhome);
+//        imageButtonfood=findViewById(R.id.imageButtonfood);
+//        imageButtonbar=findViewById(R.id.imageButtonbar);
+//        imageButtonorder=findViewById(R.id.imageButtonorder);
+//
+//        imageButtonhome.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                startActivity(new Intent(MainActivity.this, MainActivity.class));
+//            }
+//        });
+//
+//        imageButtonfood.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                startActivity(new Intent(MainActivity.this,Mainnewgui1.class));
+//            }
+//        });
+//
+//        imageButtonbar.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                startActivity(new Intent(MainActivity.this, BarMenuPage2Activity.class));
+//            }
+//        });
+//
+//        imageButtonorder.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                startActivity(new Intent(MainActivity.this,Mainnewgui1.class));
+//            }
+//        });
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
@@ -62,33 +88,6 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
 
 
-        imageButtonhome.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(MainActivity.this, MainActivity.class));
-            }
-        });
-
-        imageButtonfood.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(MainActivity.this,Mainnewgui1.class));
-            }
-        });
-
-        imageButtonbar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(MainActivity.this, BarMenuPage2Activity.class));
-            }
-        });
-
-        imageButtonorder.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(MainActivity.this,Mainnewgui1.class));
-            }
-        });
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.main, menu);
         return true;

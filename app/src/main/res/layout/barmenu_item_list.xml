@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="@drawable/g5"
     android:orientation="vertical">
 
     <TextView
@@ -10,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:text="Id"
-        android:textColor="#090404"
+        android:textColor="#F6F6F6"
         android:textSize="18dp"
         android:textStyle="bold" />
 
@@ -20,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:text="Name"
-        android:textColor="#090404"
+        android:textColor="#F6F6F6"
         android:textSize="18sp"
         android:textStyle="bold" />
 
@@ -30,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
         android:text="Email"
-        android:textColor="#090404"
+        android:textColor="#F6F6F6"
         android:textSize="18sp"
         android:textStyle="bold" />
 
@@ -46,8 +48,9 @@
             android:layout_height="wrap_content"
             android:layout_margin="2dp"
             android:layout_weight="2"
-            android:background="#097103"
-            android:text="Edit" />
+            android:background="#FF2CC179"
+            android:text="Edit"
+            app:backgroundTint="#FF2CC179" />
 
         <Button
             android:id="@+id/button_delete"
@@ -55,8 +58,9 @@
             android:layout_height="wrap_content"
             android:layout_margin="2dp"
             android:layout_weight="2"
-            android:background="#911C1C"
-            android:text="Delete" />
+            android:background="#FFF30B38"
+            android:text="Delete"
+            app:backgroundTint="#FFF30B38" />
     </LinearLayout>
 
     <View

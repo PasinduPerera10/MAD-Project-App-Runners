@@ -28,6 +28,9 @@ public final class ActivityAddDeliveryDetalisBinding implements ViewBinding {
   public final Button buttonAdd;
 
   @NonNull
+  public final Button buttonr;
+
+  @NonNull
   public final EditText editTextAddress;
 
   @NonNull
@@ -58,14 +61,15 @@ public final class ActivityAddDeliveryDetalisBinding implements ViewBinding {
   public final TextView textView27;
 
   private ActivityAddDeliveryDetalisBinding(@NonNull ConstraintLayout rootView,
-      @NonNull Button btnback, @NonNull Button buttonAdd, @NonNull EditText editTextAddress,
-      @NonNull EditText editTextContactNumber, @NonNull EditText editTextCustomerName,
-      @NonNull EditText editTextTotalPrice, @NonNull Guideline guideline4,
-      @NonNull TextView textView23, @NonNull TextView textView24, @NonNull TextView textView25,
-      @NonNull TextView textView26, @NonNull TextView textView27) {
+      @NonNull Button btnback, @NonNull Button buttonAdd, @NonNull Button buttonr,
+      @NonNull EditText editTextAddress, @NonNull EditText editTextContactNumber,
+      @NonNull EditText editTextCustomerName, @NonNull EditText editTextTotalPrice,
+      @NonNull Guideline guideline4, @NonNull TextView textView23, @NonNull TextView textView24,
+      @NonNull TextView textView25, @NonNull TextView textView26, @NonNull TextView textView27) {
     this.rootView = rootView;
     this.btnback = btnback;
     this.buttonAdd = buttonAdd;
+    this.buttonr = buttonr;
     this.editTextAddress = editTextAddress;
     this.editTextContactNumber = editTextContactNumber;
     this.editTextCustomerName = editTextCustomerName;
@@ -114,6 +118,12 @@ public final class ActivityAddDeliveryDetalisBinding implements ViewBinding {
       id = R.id.buttonAdd;
       Button buttonAdd = rootView.findViewById(id);
       if (buttonAdd == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonr;
+      Button buttonr = rootView.findViewById(id);
+      if (buttonr == null) {
         break missingId;
       }
 
@@ -178,7 +188,7 @@ public final class ActivityAddDeliveryDetalisBinding implements ViewBinding {
       }
 
       return new ActivityAddDeliveryDetalisBinding((ConstraintLayout) rootView, btnback, buttonAdd,
-          editTextAddress, editTextContactNumber, editTextCustomerName, editTextTotalPrice,
+          buttonr, editTextAddress, editTextContactNumber, editTextCustomerName, editTextTotalPrice,
           guideline4, textView23, textView24, textView25, textView26, textView27);
     }
     String missingId = rootView.getResources().getResourceName(id);

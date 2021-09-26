@@ -33,12 +33,12 @@
         tools:layout="@layout/activity_main_activitylogin" />
     <activity
         android:id="@+id/mainActivityDriver1"
-        android:name="com.example.sidemenusakura.DeliveryManagement.MainActivityDriver1"
+        android:name="com.example.sidemenusakura.FoodDeliveryManagement.MainActivityDriver1"
         android:label="activity_main_driver1"
         tools:layout="@layout/activity_main_driver1" />
     <activity
         android:id="@+id/userProfileActivity"
-        android:name="com.example.sidemenusakura.UserManagement.UserProfileActivity"
+        android:name="com.example.sidemenusakura.UserProfileManagement.UserProfileActivity"
         android:label="activity_userprofile"
         tools:layout="@layout/activity_userprofile" />
     <activity
@@ -60,4 +60,19 @@
         android:name="com.example.sidemenusakura.FoodMenuManagement.Mainnewgui1"
         android:label="activity_mainnewgui1"
         tools:layout="@layout/activity_mainnewgui1" />
+    <activity
+        android:id="@+id/addOrderActivity"
+        android:name="com.example.sidemenusakura.OrderManagement.AddOrderActivity"
+        android:label="activity_addorder"
+        tools:layout="@layout/activity_addorder" />
+    <activity
+        android:id="@+id/addBarMenu"
+        android:name="com.example.sidemenusakura.BarMenuManagement.AddBarMenu"
+        android:label="add_bar_menu"
+        tools:layout="@layout/add_bar_menu" />
+    <activity
+        android:id="@+id/barMenuPage2Activity"
+        android:name="com.example.sidemenusakura.BarMenuManagement.BarMenuPage2Activity"
+        android:label="activity_barmenupage2"
+        tools:layout="@layout/activity_barmenupage2" />
 </navigation>

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/p8"
     tools:context=".BarMenuManagement.BarMenuPage3Activity">
 
 
@@ -28,7 +29,7 @@
         android:layout_height="wrap_content"
         android:background="#FDFDFD"
         android:backgroundTint="#316DD1"
-        android:text="VEGETABLE"
+        android:text="BASIC"
         android:textColor="#120707"
         android:textSize="12sp"
         app:backgroundTint="#FDFDFD"
@@ -59,7 +60,7 @@
         android:layout_marginRight="12dp"
         app:layout_constraintEnd_toEndOf="@+id/button32"
         app:layout_constraintTop_toTopOf="@+id/button32"
-        app:srcCompat="@drawable/homeimage1" />
+        app:srcCompat="@drawable/image2" />
 
     <TextView
         android:id="@+id/textView12"
@@ -76,14 +77,15 @@
         app:layout_constraintTop_toBottomOf="@+id/textView11" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/buttonorder1"
         android:layout_width="139dp"
         android:layout_height="37dp"
         android:layout_marginTop="28dp"
         android:layout_marginEnd="40dp"
-        android:background="#880216"
+        android:background="#673AB7"
         android:text="ADD TO CART"
         android:textColor="#F1E8E8"
+        app:backgroundTint="#673AB7"
         app:layout_constraintEnd_toStartOf="@+id/imageView7"
         app:layout_constraintHorizontal_bias="0.452"
         app:layout_constraintStart_toStartOf="parent"
@@ -101,7 +103,7 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView8"
         app:layout_constraintHorizontal_bias="0.351"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button6" />
+        app:layout_constraintTop_toBottomOf="@+id/buttonorder1" />
 
     <TextView
         android:id="@+id/textView17"
@@ -125,7 +127,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView7"
         app:layout_constraintVertical_bias="0.026"
-        app:srcCompat="@drawable/homeimage1" />
+        app:srcCompat="@drawable/image56" />
 
     <TextView
         android:id="@+id/textView22"
@@ -166,12 +168,13 @@
         app:layout_constraintTop_toBottomOf="@+id/textView25" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/buttonorder2"
         android:layout_width="140dp"
         android:layout_height="35dp"
-        android:background="#880216"
+        android:background="#673AB7"
         android:text="ADD TO CART"
         android:textColor="#F1E8E8"
+        app:backgroundTint="#673AB7"
         app:layout_constraintBottom_toTopOf="@+id/imageButtonhome"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.103"

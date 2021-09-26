@@ -25,6 +25,9 @@ public final class ActivityUpdateDeliveryDetailsBinding implements ViewBinding {
   public final Button buttonEdit;
 
   @NonNull
+  public final Button buttonresetdeliverydetails;
+
+  @NonNull
   public final EditText editTextAddress;
 
   @NonNull
@@ -55,13 +58,14 @@ public final class ActivityUpdateDeliveryDetailsBinding implements ViewBinding {
   public final TextView textView27;
 
   private ActivityUpdateDeliveryDetailsBinding(@NonNull ConstraintLayout rootView,
-      @NonNull Button buttonEdit, @NonNull EditText editTextAddress,
-      @NonNull EditText editTextContactNumber, @NonNull EditText editTextCustomerName,
-      @NonNull EditText editTextTotalPrice, @NonNull Guideline guideline4,
-      @NonNull TextView textView23, @NonNull TextView textView24, @NonNull TextView textView25,
-      @NonNull TextView textView26, @NonNull TextView textView27) {
+      @NonNull Button buttonEdit, @NonNull Button buttonresetdeliverydetails,
+      @NonNull EditText editTextAddress, @NonNull EditText editTextContactNumber,
+      @NonNull EditText editTextCustomerName, @NonNull EditText editTextTotalPrice,
+      @NonNull Guideline guideline4, @NonNull TextView textView23, @NonNull TextView textView24,
+      @NonNull TextView textView25, @NonNull TextView textView26, @NonNull TextView textView27) {
     this.rootView = rootView;
     this.buttonEdit = buttonEdit;
+    this.buttonresetdeliverydetails = buttonresetdeliverydetails;
     this.editTextAddress = editTextAddress;
     this.editTextContactNumber = editTextContactNumber;
     this.editTextCustomerName = editTextCustomerName;
@@ -104,6 +108,12 @@ public final class ActivityUpdateDeliveryDetailsBinding implements ViewBinding {
       id = R.id.buttonEdit;
       Button buttonEdit = rootView.findViewById(id);
       if (buttonEdit == null) {
+        break missingId;
+      }
+
+      id = R.id.buttonresetdeliverydetails;
+      Button buttonresetdeliverydetails = rootView.findViewById(id);
+      if (buttonresetdeliverydetails == null) {
         break missingId;
       }
 
@@ -168,8 +178,9 @@ public final class ActivityUpdateDeliveryDetailsBinding implements ViewBinding {
       }
 
       return new ActivityUpdateDeliveryDetailsBinding((ConstraintLayout) rootView, buttonEdit,
-          editTextAddress, editTextContactNumber, editTextCustomerName, editTextTotalPrice,
-          guideline4, textView23, textView24, textView25, textView26, textView27);
+          buttonresetdeliverydetails, editTextAddress, editTextContactNumber, editTextCustomerName,
+          editTextTotalPrice, guideline4, textView23, textView24, textView25, textView26,
+          textView27);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

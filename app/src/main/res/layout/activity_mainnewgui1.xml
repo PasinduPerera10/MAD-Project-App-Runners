@@ -26,7 +26,7 @@
         android:layout_marginEnd="8dp"
         android:text="LKR 700"
         android:textSize="14sp"
-        app:layout_constraintBottom_toTopOf="@+id/button17"
+        app:layout_constraintBottom_toTopOf="@+id/buttonorder2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.54"
         app:layout_constraintStart_toEndOf="@+id/imageView4"
@@ -40,7 +40,7 @@
         android:layout_marginEnd="8dp"
         android:text="LKR 500"
         android:textSize="14sp"
-        app:layout_constraintBottom_toTopOf="@+id/button27"
+        app:layout_constraintBottom_toTopOf="@+id/buttonorder1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toEndOf="@+id/imageView10"
@@ -53,7 +53,7 @@
         android:layout_marginEnd="8dp"
         android:text="LKR 400"
         android:textSize="14sp"
-        app:layout_constraintBottom_toTopOf="@+id/button26"
+        app:layout_constraintBottom_toTopOf="@+id/buttonorder3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.52"
         app:layout_constraintStart_toEndOf="@+id/imageView11"
@@ -75,26 +75,30 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <Button
-        android:id="@+id/button17"
+        android:id="@+id/buttonorder2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="24dp"
+        android:background="#673AB7"
         android:backgroundTint="#316DD1"
         android:text="ADD TO CART"
+        app:backgroundTint="#673AB7"
         app:layout_constraintBottom_toTopOf="@+id/divider6"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageView4"
         app:layout_constraintTop_toBottomOf="@+id/textView15" />
 
     <Button
-        android:id="@+id/button26"
+        android:id="@+id/buttonorder3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="16dp"
+        android:background="#673AB7"
         android:backgroundTint="#316DD1"
         android:text="ADD TO CART"
+        app:backgroundTint="#673AB7"
         app:layout_constraintBottom_toTopOf="@+id/imageButtonorder"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.55"
@@ -102,13 +106,15 @@
         app:layout_constraintTop_toBottomOf="@+id/textView17" />
 
     <Button
-        android:id="@+id/button27"
+        android:id="@+id/buttonorder1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="24dp"
+        android:background="#673AB7"
         android:backgroundTint="#316DD1"
         android:text="Add to cart"
+        app:backgroundTint="#673AB7"
         app:layout_constraintBottom_toTopOf="@+id/divider5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.533"
@@ -213,7 +219,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/divider5"
         app:layout_constraintVertical_bias="0.447"
-        app:srcCompat="@drawable/homeimage1" />
+        app:srcCompat="@drawable/ty" />
 
     <ImageView
         android:id="@+id/imageView10"
@@ -226,7 +232,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button25"
         app:layout_constraintVertical_bias="0.433"
-        app:srcCompat="@drawable/homeimage1" />
+        app:srcCompat="@drawable/rtrt" />
 
     <ImageView
         android:id="@+id/imageView11"
@@ -239,7 +245,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/divider6"
         app:layout_constraintVertical_bias="0.356"
-        app:srcCompat="@drawable/homeimage1" />
+        app:srcCompat="@drawable/hhhw" />
 
 
     <ImageButton

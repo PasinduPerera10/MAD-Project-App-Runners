@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DeliveryManagement.MainActivityDriver1">
+    tools:context=".FoodDeliveryManagement.MainActivityDriver1">
 
     <ListView
         android:id="@+id/delivery_managementlist"
@@ -120,6 +120,7 @@
         android:layout_marginTop="8dp"
         android:text="Customer"
         android:textAlignment="center"
+        android:textColor="#0C0808"
         android:textSize="18dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/delivery_managementlist"
@@ -136,6 +137,7 @@
         android:layout_marginTop="14dp"
         android:text="Price(Rs.)"
         android:textAlignment="center"
+        android:textColor="#0C0808"
         android:textSize="18dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/delivery_managementlist"
@@ -151,6 +153,7 @@
         android:layout_marginTop="8dp"
         android:text="Order Confirmed"
         android:textAlignment="center"
+        android:textColor="#0C0808"
         android:textSize="18dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/delivery_managementlist"
@@ -166,6 +169,7 @@
         android:layout_marginTop="16dp"
         android:text="Delivery Completed"
         android:textAlignment="center"
+        android:textColor="#0C0808"
         android:textSize="18dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/delivery_managementlist"

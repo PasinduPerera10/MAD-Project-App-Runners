@@ -13,11 +13,11 @@ import java.util.List;
 public class DatabaseHelperClass extends SQLiteOpenHelper {
 
     //Database version
-    private static final int DATABASE_VERSION = 3;
+    private static final int DATABASE_VERSION = 8;
     //Database Name
-    private static final String DATABASE_NAME = "employee_database";
+    private static final String DATABASE_NAME = "Sakura_Restaurant";
     //Database Table name
-    private static final String TABLE_NAME = "EMPLOYEE";
+    private static final String TABLE_NAME = "Order_Management";
     //Table columns
     public static final String ID = "id";
     public static final String NAME = "name";

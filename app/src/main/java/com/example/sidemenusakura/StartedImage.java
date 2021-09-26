@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.example.sidemenusakura.UserManagement.LoginActivity;
+import com.example.sidemenusakura.UserProfileManagement.LoginActivity;
 
 public class StartedImage extends AppCompatActivity {
 

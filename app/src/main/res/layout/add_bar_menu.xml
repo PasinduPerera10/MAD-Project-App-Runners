@@ -4,10 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/homeimage3"
+    android:background="@drawable/d4"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".BarMenuManagement.AddBarMenu">
+
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:srcCompat="@drawable/image2" />
+
+
+
+
 
 
     <EditText
@@ -33,9 +46,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:background="#03A9F4"
+        android:background="#FF316DD1"
         android:text="Add OFFER"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        app:backgroundTint="#FF316DD1" />
 
 
     <Button
@@ -43,9 +57,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:background="#6B5395"
+        android:background="#C0D11C"
         android:text="View OFFER"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        app:backgroundTint="#C0D11C" />
 
 
 </LinearLayout>

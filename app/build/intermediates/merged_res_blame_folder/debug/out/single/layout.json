@@ -132,6 +132,10 @@
         "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_about_us.xml"
     },
     {
+        "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_my_latest_order.xml",
+        "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\activity_my_latest_order.xml"
+    },
+    {
         "merged": "E:\\Android tutorial videos\\SideMenuSakura\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_slideshow.xml",
         "source": "E:\\Android tutorial videos\\SideMenuSakura\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
     },

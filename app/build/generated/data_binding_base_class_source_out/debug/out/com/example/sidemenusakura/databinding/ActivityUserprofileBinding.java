@@ -32,7 +32,7 @@ public final class ActivityUserprofileBinding implements ViewBinding {
   public final Button btnEditDetails;
 
   @NonNull
-  public final Button button2;
+  public final Button buttonorder2;
 
   @NonNull
   public final Guideline guideline2;
@@ -80,10 +80,10 @@ public final class ActivityUserprofileBinding implements ViewBinding {
   public final TextView textViewUserName1;
 
   private ActivityUserprofileBinding(@NonNull ConstraintLayout rootView, @NonNull Barrier barrier2,
-      @NonNull Button btnChangePassword, @NonNull Button btnEditDetails, @NonNull Button button2,
-      @NonNull Guideline guideline2, @NonNull ImageView imageView2, @NonNull TextView textView13,
-      @NonNull TextView textView14, @NonNull TextView textView4, @NonNull TextView textView6,
-      @NonNull TextView textView7, @NonNull TextView textView8,
+      @NonNull Button btnChangePassword, @NonNull Button btnEditDetails,
+      @NonNull Button buttonorder2, @NonNull Guideline guideline2, @NonNull ImageView imageView2,
+      @NonNull TextView textView13, @NonNull TextView textView14, @NonNull TextView textView4,
+      @NonNull TextView textView6, @NonNull TextView textView7, @NonNull TextView textView8,
       @NonNull TextView textViewContactNumber, @NonNull TextView textViewEmail,
       @NonNull Button textViewLogout, @NonNull TextView textViewName,
       @NonNull TextView textViewPassword, @NonNull TextView textViewUserName,
@@ -92,7 +92,7 @@ public final class ActivityUserprofileBinding implements ViewBinding {
     this.barrier2 = barrier2;
     this.btnChangePassword = btnChangePassword;
     this.btnEditDetails = btnEditDetails;
-    this.button2 = button2;
+    this.buttonorder2 = buttonorder2;
     this.guideline2 = guideline2;
     this.imageView2 = imageView2;
     this.textView13 = textView13;
@@ -155,9 +155,9 @@ public final class ActivityUserprofileBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.button2;
-      Button button2 = rootView.findViewById(id);
-      if (button2 == null) {
+      id = R.id.buttonorder2;
+      Button buttonorder2 = rootView.findViewById(id);
+      if (buttonorder2 == null) {
         break missingId;
       }
 
@@ -252,7 +252,7 @@ public final class ActivityUserprofileBinding implements ViewBinding {
       }
 
       return new ActivityUserprofileBinding((ConstraintLayout) rootView, barrier2,
-          btnChangePassword, btnEditDetails, button2, guideline2, imageView2, textView13,
+          btnChangePassword, btnEditDetails, buttonorder2, guideline2, imageView2, textView13,
           textView14, textView4, textView6, textView7, textView8, textViewContactNumber,
           textViewEmail, textViewLogout, textViewName, textViewPassword, textViewUserName,
           textViewUserName1);

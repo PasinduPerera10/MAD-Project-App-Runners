@@ -61,23 +61,24 @@
         android:textColor="#655858"
         android:textSize="34sp"
         android:textStyle="bold|italic"
-        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintBottom_toTopOf="@+id/buttonorder2"
         app:layout_constraintEnd_toStartOf="@+id/imageView2"
         app:layout_constraintHorizontal_bias="0.658"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonorder2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
-        android:background="#880216"
+        android:background="#673AB7"
         android:shadowColor="#950606"
         android:text="ADD TO CART"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="#F1E8E8"
         android:textSize="16sp"
+        app:backgroundTint="#673AB7"
         app:layout_constraintEnd_toStartOf="@+id/imageView2"
         app:layout_constraintHorizontal_bias="0.636"
         app:layout_constraintStart_toStartOf="parent"
@@ -134,7 +135,7 @@
         app:layout_constraintEnd_toStartOf="@+id/imageView3"
         app:layout_constraintHorizontal_bias="0.57"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button2" />
+        app:layout_constraintTop_toBottomOf="@+id/buttonorder2" />
 
     <TextView
         android:id="@+id/textView10"
@@ -167,11 +168,12 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#880216"
+        android:background="#673AB7"
         android:shadowColor="#950606"
         android:text="ADD TO CART"
         android:textColor="#F1E8E8"
         android:textSize="16sp"
+        app:backgroundTint="#673AB7"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.245"

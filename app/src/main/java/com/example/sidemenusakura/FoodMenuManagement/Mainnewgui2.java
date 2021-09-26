@@ -9,13 +9,14 @@ import android.widget.ImageView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.sidemenusakura.BarMenuManagement.BarMenuPage2Activity;
+import com.example.sidemenusakura.FoodDeliveryManagement.MyLatestOrderActivity;
 import com.example.sidemenusakura.MainActivity;
+import com.example.sidemenusakura.OrderManagement.AddOrderActivity;
 import com.example.sidemenusakura.R;
-import com.example.sidemenusakura.ui.home.HomeFragment;
 
 public class Mainnewgui2 extends AppCompatActivity {
 
-    Button button22, button23, button25;
+    Button button22, button23, button25, buttonorder1, buttonorder2, buttonorder3;
     ImageView imageButtonhome,imageButtonfood, imageButtonbar, imageButtonorder;
 
     @Override
@@ -31,6 +32,9 @@ public class Mainnewgui2 extends AppCompatActivity {
         imageButtonfood=findViewById(R.id.imageButtonfood);
         imageButtonbar=findViewById(R.id.imageButtonbar);
         imageButtonorder=findViewById(R.id.imageButtonorder);
+        buttonorder1=findViewById(R.id.buttonorder1);
+        buttonorder2=findViewById(R.id.buttonorder2);
+        buttonorder3=findViewById(R.id.buttonorder3);
 
         button22.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -77,9 +81,31 @@ public class Mainnewgui2 extends AppCompatActivity {
         imageButtonorder.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(Mainnewgui2.this,Mainnewgui1.class));
+                startActivity(new Intent(Mainnewgui2.this, MyLatestOrderActivity.class));
             }
         });
+
+        buttonorder1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Mainnewgui2.this, AddOrderActivity.class));
+            }
+        });
+
+        buttonorder2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Mainnewgui2.this,AddOrderActivity.class));
+            }
+        });
+
+        buttonorder3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(Mainnewgui2.this,AddOrderActivity.class));
+            }
+        });
+
 
 
     }

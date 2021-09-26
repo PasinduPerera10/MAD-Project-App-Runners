@@ -146,50 +146,53 @@
         app:srcCompat="@drawable/mainqimg4de06e0c65f29c2089d6af31355b1310" />
 
     <Button
-            android:id="@+id/button_add"
-            android:layout_width="130dp"
-            android:layout_height="50dp"
-            android:layout_marginStart="4dp"
-            android:layout_marginEnd="4dp"
-            android:background="#388E3C"
-            android:text="SAVE"
-            android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.043"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.926" />
+        android:id="@+id/button_add"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="4dp"
+        android:background="#FF316DD1"
+        android:text="SAVE"
+        android:textStyle="bold"
+        app:backgroundTint="#FF316DD1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.043"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.926" />
 
-        <Button
-            android:id="@+id/button_viewed"
-            android:layout_width="130dp"
-            android:layout_height="50dp"
-            android:layout_marginStart="4dp"
-            android:layout_marginEnd="118dp"
-            android:background="#0288D1"
-            android:text="View deliver"
-            android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.855"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.926" />
+    <Button
+        android:id="@+id/button_viewed"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="118dp"
+        android:background="#C0D11C"
+        android:text="View deliver"
+        android:textStyle="bold"
+        app:backgroundTint="#C0D11C"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.855"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.926" />
 
-        <Button
-            android:id="@+id/button_payments"
-            android:layout_width="130dp"
-            android:layout_height="50dp"
-            android:background="#E91E63"
-            android:text="Do Pay"
-            android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.943"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.926" />
+    <Button
+        android:id="@+id/button_payments"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:background="#E91E63"
+        android:text="Do Pay"
+        android:textStyle="bold"
+        app:backgroundTint="#E91E63"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.943"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.926" />
 
 
 

@@ -15,12 +15,12 @@
             android:title="@string/FoodMenu" />
 
         <item
-            android:id="@+id/updateDeliveryDetailsFragment"
+            android:id="@+id/barMenuPage2Activity"
             android:icon="@drawable/ic_bar"
             android:title="@string/BarMenu" />
 
         <item
-            android:id="@+id/viewDeliveryDetailsFragment"
+            android:id="@+id/addOrderActivity"
             android:icon="@drawable/ic_order"
             android:title="@string/orderListFragment" />
         <item
@@ -28,7 +28,7 @@
             android:icon="@drawable/ic_foodman"
             android:title="@string/foodListFragment" />
         <item
-            android:id="@+id/addDeliveryDetailsFragment"
+            android:id="@+id/addBarMenu"
             android:icon="@drawable/ic_barman"
             android:title="@string/barmenuListFragment" />
         <item
