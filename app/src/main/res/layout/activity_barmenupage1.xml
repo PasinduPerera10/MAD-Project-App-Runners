@@ -143,7 +143,7 @@
         android:layout_height="wrap_content"
         android:text="5PM-8PM | | SUN-THURS"
         android:textColor="#090000"
-        android:textSize="16sp"
+        android:textSize="17sp"
         app:layout_constraintBottom_toTopOf="@+id/multiAutoCompleteTextView2"
         app:layout_constraintEnd_toStartOf="@+id/imageView3"
         app:layout_constraintHorizontal_bias="0.47"
