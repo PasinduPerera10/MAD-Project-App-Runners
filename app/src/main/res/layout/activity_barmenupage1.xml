@@ -77,7 +77,7 @@
         android:text="ADD TO CART"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="#F1E8E8"
-        android:textSize="16sp"
+        android:textSize="17sp"
         app:backgroundTint="#673AB7"
         app:layout_constraintEnd_toStartOf="@+id/imageView2"
         app:layout_constraintHorizontal_bias="0.636"
