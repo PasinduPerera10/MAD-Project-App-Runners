@@ -177,7 +177,7 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName3"
-        android:layout_width="140dp"
+        android:layout_width="141dp"
         android:layout_height="45dp"
         android:background="#FFEB3B"
         android:ems="10"
