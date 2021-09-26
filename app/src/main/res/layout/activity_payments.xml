@@ -18,7 +18,7 @@
         android:hint="holder of card"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.914"
+        app:layout_constraintHorizontal_bias="0.915"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.3"
@@ -179,7 +179,7 @@
 
     <EditText
         android:id="@+id/editTextTextPersonName3"
-        android:layout_width="140dp"
+        android:layout_width="141dp"
         android:layout_height="45dp"
         android:background="#FFEB3B"
         android:ems="10"
